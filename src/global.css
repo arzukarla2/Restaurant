@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Chillax:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bitter+Rose:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --text-xlarge: Chillax;
+  --heading-h1-italic: "Bitter Rose";
+  --font-cabinet-grotesk: "Cabinet Grotesk";
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --text-xlarge-size: 24px;
+  --heading-xlarge-size: 160px;
+  --heading-medium-size: 80px;
+  --text-default-size: 16px;
+  --heading-h6-size: 18px;
+  --text-small-size: 14px;
+  --font-size-181xl: 200px;
+  --font-size-93xl: 112px;
+  --text-large-size: 20px;
+  --font-size-6xs-9: 6.9px;
+  --heading-h2-italic-size: 64px;
+  --heading-h2-size: 40px;
+
+  /* Colors */
+  --color-gray-100: #111;
+  --text-inverse: #081212;
+  --background-default: #050505;
+  --border-default: rgba(255, 255, 255, 0.1);
+  --color-gray-200: rgba(255, 255, 255, 0.8);
+  --text-default: #fff;
+  --background-primary: #f8d49e;
+  --text-primary: #face8d;
+  --color-whitesmoke: #f8f8f8;
+  --color-burlywood: #eebf79;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-5xs: 8px;
+  --gap-11xs: 2px;
+  --gap-29xl: 48px;
+  --gap-61xl: 80px;
+  --gap-base: 16px;
+  --gap-5xl: 24px;
+  --gap-9xs: 4px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+  --padding-3xs: 10px;
+  --padding-77xl: 96px;
+  --padding-61xl: 80px;
+  --padding-13xl: 32px;
+  --padding-5xs: 8px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-81xl: 100px;
+  --br-481xl: 500px;
+  --br-8xs-3: 4.3px;
+  --br-5xs: 8px;
+  --br-base: 16px;
+}

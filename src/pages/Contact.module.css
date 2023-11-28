@@ -1,0 +1,215 @@
+.volutpatMaecenasVolutpat {
+  align-self: stretch;
+  position: relative;
+  line-height: 160%;
+}
+.row {
+  border: 0;
+  background-color: transparent;
+}
+.row,
+.rowFormgroup {
+  align-self: stretch;
+}
+.button1 {
+  position: relative;
+  font-size: var(--text-default-size);
+  letter-spacing: 1px;
+  line-height: 100%;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--text-xlarge);
+  color: var(--text-inverse);
+  text-align: left;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-5xl);
+  background-color: var(--background-primary);
+  align-self: stretch;
+  border-radius: var(--br-481xl);
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.form,
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.form {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.right {
+  position: absolute;
+  top: 0;
+  left: 840px;
+  width: 840px;
+  align-items: center;
+  padding: var(--padding-77xl) var(--padding-61xl);
+  box-sizing: border-box;
+}
+.pexelsRachelClaire45774101Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 868px;
+  height: 1302px;
+  object-fit: cover;
+  opacity: 0.7;
+}
+.ritimeLineIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.icon,
+.menuItem {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  border-radius: var(--br-481xl);
+  width: 48px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+}
+.menuItem {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-whitesmoke);
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base);
+}
+.restaurant {
+  position: relative;
+  line-height: 100%;
+  font-weight: 500;
+}
+.menu,
+.menuItem1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.menuItem1 {
+  border-radius: var(--br-81xl);
+  background-color: var(--text-default);
+  align-items: flex-start;
+  padding: var(--padding-base);
+}
+.menu {
+  align-items: center;
+}
+.bookATable {
+  position: relative;
+  letter-spacing: 1px;
+  line-height: 100%;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.button2,
+.inner,
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button2 {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-100);
+  align-items: flex-start;
+  padding: var(--padding-base) var(--padding-5xl);
+  font-size: var(--text-small-size);
+  color: var(--text-default);
+}
+.inner,
+.navbar {
+  align-items: center;
+}
+.inner {
+  gap: var(--gap-11xs);
+}
+.navbar {
+  position: absolute;
+  top: 868px;
+  left: 169px;
+  border-radius: var(--br-81xl);
+  background-color: var(--text-default);
+  overflow: hidden;
+  padding: var(--padding-3xs);
+}
+.contact1,
+.getInTouch {
+  position: relative;
+  line-height: 90%;
+  z-index: 1;
+}
+.getInTouch {
+  line-height: 100%;
+  font-weight: 500;
+  font-family: var(--text-xlarge);
+  color: var(--text-default);
+  z-index: 0;
+}
+.grid {
+  top: 424px;
+  left: 175px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--heading-medium-size);
+  color: var(--text-primary);
+  font-family: var(--heading-h1-italic);
+}
+.grid,
+.logo,
+.nique {
+  position: absolute;
+}
+.nique {
+  top: 0;
+  left: 0;
+  line-height: 90%;
+  font-weight: 500;
+}
+.logo {
+  top: 64px;
+  left: 372px;
+  width: 97px;
+  height: 29px;
+  font-size: var(--font-size-13xl);
+  color: var(--text-default);
+}
+.contact,
+.left {
+  height: 1000px;
+  overflow: hidden;
+}
+.left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 840px;
+  font-size: var(--text-default-size);
+  color: var(--text-inverse);
+}
+.contact {
+  position: relative;
+  background-color: var(--background-default);
+  width: 100%;
+  text-align: left;
+  font-size: var(--text-large-size);
+  color: var(--color-gray-200);
+  font-family: var(--text-xlarge);
+}
